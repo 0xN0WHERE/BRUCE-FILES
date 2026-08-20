@@ -5,6 +5,6 @@ STRING cmd
 DELAY 200
 ENTER
 DELAY 1000
-STRING start https://github.com/0xN0WHERE/BAD-BLE-USB
+STRING start https://github.com/0xN0WHERE/BRUCE-FILES
 DELAY 100
 ENTER
